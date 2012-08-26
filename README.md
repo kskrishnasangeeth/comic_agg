@@ -1,0 +1,1 @@
+A simple comic aggregator powered by Google App Engine
