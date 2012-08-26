@@ -1,4 +1,0 @@
-cron:
-- description: hourly update comics
-  url: /update
-  schedule: every 1 hours
